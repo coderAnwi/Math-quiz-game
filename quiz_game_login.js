@@ -7,3 +7,5 @@ function addUser() {
 
     window.location = "math_game_page.html";
 }
+
+
